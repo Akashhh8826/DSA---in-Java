@@ -6,6 +6,7 @@ DSA problems and solutions implemented in Java, covering various data structures
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0283-move-zeroes) |
@@ -29,6 +30,7 @@ DSA problems and solutions implemented in Java, covering various data structures
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0350-intersection-of-two-arrays-ii) |
