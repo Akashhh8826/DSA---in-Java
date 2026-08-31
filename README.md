@@ -7,6 +7,7 @@ DSA problems and solutions implemented in Java, covering various data structures
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0283-move-zeroes) |
@@ -15,6 +16,7 @@ DSA problems and solutions implemented in Java, covering various data structures
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0344-reverse-string) |
