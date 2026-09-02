@@ -17,6 +17,7 @@ DSA problems and solutions implemented in Java, covering various data structures
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
@@ -46,6 +47,7 @@ DSA problems and solutions implemented in Java, covering various data structures
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
@@ -53,6 +55,7 @@ DSA problems and solutions implemented in Java, covering various data structures
 | [0349-intersection-of-two-arrays](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0645-set-mismatch) |
 ## String
 |  |
 | ------- |
@@ -66,6 +69,7 @@ DSA problems and solutions implemented in Java, covering various data structures
 | ------- |
 | [0268-missing-number](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0645-set-mismatch) |
 ## Prefix Sum
 |  |
 | ------- |
