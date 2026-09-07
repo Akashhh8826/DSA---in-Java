@@ -10,6 +10,7 @@ DSA problems and solutions implemented in Java, covering various data structures
 | [0011-container-with-most-water](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0283-move-zeroes) |
@@ -27,6 +28,7 @@ DSA problems and solutions implemented in Java, covering various data structures
 | ------- |
 | [0011-container-with-most-water](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0287-find-the-duplicate-number) |
@@ -91,4 +93,16 @@ DSA problems and solutions implemented in Java, covering various data structures
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
