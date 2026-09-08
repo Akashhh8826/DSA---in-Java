@@ -11,6 +11,7 @@ DSA problems and solutions implemented in Java, covering various data structures
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0283-move-zeroes) |
@@ -97,6 +98,7 @@ DSA problems and solutions implemented in Java, covering various data structures
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -105,4 +107,8 @@ DSA problems and solutions implemented in Java, covering various data structures
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0042-trapping-rain-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
