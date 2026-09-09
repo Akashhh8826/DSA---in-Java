@@ -23,6 +23,7 @@ DSA problems and solutions implemented in Java, covering various data structures
 | [0485-max-consecutive-ones](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Akashhh8826/DSA---in-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
@@ -111,4 +112,12 @@ DSA problems and solutions implemented in Java, covering various data structures
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
