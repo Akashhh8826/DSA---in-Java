@@ -11,6 +11,7 @@ DSA problems and solutions implemented in Java, covering various data structures
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0268-missing-number) |
@@ -71,6 +72,7 @@ DSA problems and solutions implemented in Java, covering various data structures
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Akashhh8826/DSA---in-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
@@ -115,6 +117,7 @@ DSA problems and solutions implemented in Java, covering various data structures
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
