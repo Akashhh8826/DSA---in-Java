@@ -19,14 +19,14 @@ class Solution {
                 list.add(matrix[row][endingCol]);
             }
             endingCol--;
-            // row wise from right to left -> endingCol to startingCol and check if any row exists 
+            // row wise from right to left -> endingCol to startingCol and check if atleast one row exists 
             if(startingRow <= endingRow){
                 for(int col = endingCol; col>=startingCol; col--){
                     list.add(matrix[endingRow][col]);
                 }
                 endingRow--;
             }
-            // col wise from bottom to top -> endingRow to startingRow and check if any col exists
+            // col wise from bottom to top -> endingRow to startingRow and check if atleast one col exists
             if(startingCol <= endingCol){
                 for(int row = endingRow; row>=startingRow; row--){
                     list.add(matrix[row][startingCol]);
