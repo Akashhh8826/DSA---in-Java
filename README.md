@@ -13,6 +13,7 @@ DSA problems and solutions implemented in Java, covering various data structures
 | [0042-trapping-rain-water](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0054-spiral-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0283-move-zeroes) |
@@ -118,9 +119,11 @@ DSA problems and solutions implemented in Java, covering various data structures
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
