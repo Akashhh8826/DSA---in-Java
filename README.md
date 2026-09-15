@@ -26,6 +26,7 @@ DSA problems and solutions implemented in Java, covering various data structures
 | [0645-set-mismatch](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0867-transpose-matrix) |
+| [1004-max-consecutive-ones-iii](https://github.com/Akashhh8826/DSA---in-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Akashhh8826/DSA---in-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
@@ -47,6 +48,7 @@ DSA problems and solutions implemented in Java, covering various data structures
 | [0287-find-the-duplicate-number](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/Akashhh8826/DSA---in-Java/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +88,7 @@ DSA problems and solutions implemented in Java, covering various data structures
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/Akashhh8826/DSA---in-Java/tree/master/1004-max-consecutive-ones-iii) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -126,4 +129,8 @@ DSA problems and solutions implemented in Java, covering various data structures
 | ------- |
 | [0054-spiral-matrix](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0867-transpose-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Akashhh8826/DSA---in-Java/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
