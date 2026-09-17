@@ -24,6 +24,7 @@ DSA problems and solutions implemented in Java, covering various data structures
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0645-set-mismatch) |
+| [0713-subarray-product-less-than-k](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0867-transpose-matrix) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akashhh8826/DSA---in-Java/tree/master/1004-max-consecutive-ones-iii) |
@@ -48,6 +49,7 @@ DSA problems and solutions implemented in Java, covering various data structures
 | [0287-find-the-duplicate-number](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0713-subarray-product-less-than-k](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akashhh8826/DSA---in-Java/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
@@ -87,6 +89,7 @@ DSA problems and solutions implemented in Java, covering various data structures
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akashhh8826/DSA---in-Java/tree/master/1004-max-consecutive-ones-iii) |
 ## Pigeonhole Principle
@@ -132,5 +135,6 @@ DSA problems and solutions implemented in Java, covering various data structures
 ## Sliding Window
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akashhh8826/DSA---in-Java/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
