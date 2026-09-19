@@ -15,6 +15,7 @@ DSA problems and solutions implemented in Java, covering various data structures
 | [0053-maximum-subarray](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0054-spiral-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0287-find-the-duplicate-number) |
@@ -47,6 +48,7 @@ DSA problems and solutions implemented in Java, covering various data structures
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0349-intersection-of-two-arrays) |
@@ -91,6 +93,7 @@ DSA problems and solutions implemented in Java, covering various data structures
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akashhh8826/DSA---in-Java/tree/master/1004-max-consecutive-ones-iii) |
@@ -137,6 +140,7 @@ DSA problems and solutions implemented in Java, covering various data structures
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akashhh8826/DSA---in-Java/tree/master/1004-max-consecutive-ones-iii) |
