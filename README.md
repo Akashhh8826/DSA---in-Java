@@ -32,6 +32,7 @@ DSA problems and solutions implemented in Java, covering various data structures
 | [1004-max-consecutive-ones-iii](https://github.com/Akashhh8826/DSA---in-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Akashhh8826/DSA---in-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Akashhh8826/DSA---in-Java/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Akashhh8826/DSA---in-Java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -114,6 +115,7 @@ DSA problems and solutions implemented in Java, covering various data structures
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0053-maximum-subarray) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Akashhh8826/DSA---in-Java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
 |  |
 | ------- |
@@ -145,4 +147,5 @@ DSA problems and solutions implemented in Java, covering various data structures
 | [0713-subarray-product-less-than-k](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akashhh8826/DSA---in-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Akashhh8826/DSA---in-Java/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Akashhh8826/DSA---in-Java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
