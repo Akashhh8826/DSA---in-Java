@@ -29,6 +29,7 @@ DSA problems and solutions implemented in Java, covering various data structures
 | [0713-subarray-product-less-than-k](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0867-transpose-matrix) |
+| [0904-fruit-into-baskets](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akashhh8826/DSA---in-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Akashhh8826/DSA---in-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Akashhh8826/DSA---in-Java/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -67,6 +68,7 @@ DSA problems and solutions implemented in Java, covering various data structures
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0645-set-mismatch) |
+| [0904-fruit-into-baskets](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0904-fruit-into-baskets) |
 ## Sorting
 |  |
 | ------- |
@@ -145,6 +147,7 @@ DSA problems and solutions implemented in Java, covering various data structures
 | [0209-minimum-size-subarray-sum](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/Akashhh8826/DSA---in-Java/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akashhh8826/DSA---in-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Akashhh8826/DSA---in-Java/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Akashhh8826/DSA---in-Java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
